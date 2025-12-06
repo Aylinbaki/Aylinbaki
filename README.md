@@ -1,7 +1,6 @@
-<h1 align="center">Hi , I'm Aylin</h1>
-<h3 align="center">I'm a software engineering student.</h3>
+<h1 align="center">Aylin Baki</h1>
+<h3 align="center">Isık University SE student.</h3>
 
-- I’m currently learning **Java, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
