@@ -3,6 +3,11 @@
 
 <h5 align="center">Software Engineering graduate focused on building testable backend architectures and AI-integrated smart systems.</h5>
 
+<p align="center">
+  <a href="https://github.com/Aylinbaki/Aylinbaki/blob/main/Aylin_Baki_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume%20%2F%20CV-0077B5?style=for-the-badge&logoColor=white" alt="Aylin Baki CV" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
