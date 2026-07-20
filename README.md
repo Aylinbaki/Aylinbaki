@@ -1,5 +1,5 @@
 <h1 align="center">Aylin Baki</h1>
-<h3 align="center">Isık University SE student.</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
