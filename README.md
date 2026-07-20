@@ -1,6 +1,8 @@
 <h1 align="center">Aylin Baki</h1>
 <h3 align="center">Software Engineer</h3>
 
+<h5 align="center">Software Engineering graduate focused on building testable backend architectures and AI-integrated smart systems.</h5>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
