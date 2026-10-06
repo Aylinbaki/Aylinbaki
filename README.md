@@ -2,6 +2,9 @@
 <h3 align="center">Software Engineer</h3>
 
 <h5 align="center">Software Engineering graduate focused on building testable backend architectures and AI-integrated smart systems.</h5>
+<h5 align="center">TOPIK certificate is in the Aylinbaki repo </h5>
+
+
 
 <p align="center">
   <a href="https://github.com/Aylinbaki/Aylinbaki/blob/main/Aylin_Baki_CV.pdf" target="_blank">
